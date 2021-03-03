@@ -1,0 +1,12 @@
+componentScan/ComponentA.java
+ componentScan.ComponentA
+dependencyInjection/ComponentB.java
+ dependencyInjection.ComponentB
+componentScan/ComponentScanTest.java
+ componentScan.ComponentScanTest
+componentScan/ComponentB.java
+ componentScan.ComponentB
+dependencyInjection/ComponentA.java
+ dependencyInjection.ComponentA
+DependencyInjectionTest.java
+ DependencyInjectionTest
